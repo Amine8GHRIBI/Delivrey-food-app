@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "439686854741",
+    "project_id": "delivery-food-abf7d",
+    "storage_bucket": "delivery-food-abf7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439686854741:android:290e9e25a0fe84a868fcdc",
+        "android_client_info": {
+          "package_name": "com.project.Amine.Delivrey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439686854741-bvn9prb4d4c5abcsulp1cmljmrj71409.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTodT-gth64QqcQOqNdyt91on2GxB0OQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439686854741-bvn9prb4d4c5abcsulp1cmljmrj71409.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439686854741:android:2820b51358f2303d68fcdc",
+        "android_client_info": {
+          "package_name": "com.project.delivrey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439686854741-bvn9prb4d4c5abcsulp1cmljmrj71409.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTodT-gth64QqcQOqNdyt91on2GxB0OQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439686854741-bvn9prb4d4c5abcsulp1cmljmrj71409.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
